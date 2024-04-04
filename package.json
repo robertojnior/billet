@@ -5,14 +5,17 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/server.ts"
+    "dev": "tsx watch src/index.ts"
   },
   "keywords": [],
   "author": "Roberto <robertojunior085@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "@hono/node-server": "^1.9.1",
+    "hono": "^4.2.1"
+  },
   "devDependencies": {
     "@types/node": "^20.12.4",
-    "tsx": "^4.7.1",
-    "typescript": "^5.4.3"
+    "tsx": "^4.7.1"
   }
 }
