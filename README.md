@@ -1,2 +1,3 @@
-# billet
+# Billet
+
 Event management platform.

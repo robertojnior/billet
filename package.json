@@ -1,0 +1,13 @@
+{
+  "name": "billet",
+  "version": "1.0.0",
+  "description": "Event management platform.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roberto <robertojunior085@gmail.com>",
+  "license": "MIT"
+}
